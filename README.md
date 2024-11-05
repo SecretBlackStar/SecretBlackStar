@@ -1,6 +1,6 @@
-# Sr. Full Stack Web with the latest technologies
+# Sr. Full Stack Web/Android/iOS with the latest technologies
 
-🔭 A frontend heavy full stack web/web3 developer with 8+ years experience in web development, using the latest technologies, languages, frameworks, and libraries in different areas, including frontend, backend, full stack, and web3.
+🔭 A full stack developer specialist in backend development, using the latest technologies, languages, frameworks, and libraries in different areas, including frontend, backend, full stack, and web3.
 
 - JavaScript, TypeScript, C#, PHP, Python, Ruby
 - React(Redux, Mobx, Context), Next.js, Blitz.js, Gatsby
